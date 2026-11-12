@@ -1,0 +1,6 @@
+{
+  "name": "Saraswati Samman",
+  "description": "Multi-Samaj Education Award Management System with multi-award stacking, marksheet verification, FD interest & donor memorial fund tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
